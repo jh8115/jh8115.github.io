@@ -6,7 +6,7 @@
   border:2px solid black;
   float: ;
     margin:1;
- color:black;
+ color:white;
 
 } 
 #topbar  {
@@ -16,7 +16,7 @@
   border: 2px solid black;
     margin:1;
     background: ;
- color:black;
+ color:white;
 }
 
 #sidebar {
@@ -26,7 +26,7 @@
   border: 2px solid black;
     margin:1;
     background: ;
- color:black;
+ color:white;
 }
 #banner { 
   background: ;
@@ -36,7 +36,7 @@
   width :98.5%;
   text-align:center;
   font-size:50;
-  color:black;
+  color:white;
 }
 
  #nav {
@@ -65,7 +65,7 @@ font-family: Georgia, serif;
 font-size:18;
 letter-spacing: 2px;
 word-spacing: 2px;
-color:black;
+color:white;
 font-weight: normal;
 text-decoration: none;
 font-style: italic;
@@ -89,7 +89,7 @@ ul {
 li a {
   display: block;
    list-style-type: none;
-color:black;
+color:white;
   padding: 8px 16px;
   text-decoration: none;
    font-size: 20
@@ -103,17 +103,17 @@ li a.active {
 
 li a:hover:not(.active) {
   background-color: #8a0000;
-  color: black;
+  color: white;
 }
 li a.done {
-  background-color: black;
+  background-color: white;
   color:black;
   font-size: 20
  list-style-type: none;
 }
 li a.skate {
   background-color: ;
-  color: black;
+  color:white;
   font-size: 20
  list-style-type: none;
 }
