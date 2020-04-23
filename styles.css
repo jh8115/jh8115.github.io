@@ -72,30 +72,6 @@ font-style: italic;
 font-variant: normal;
 text-transform: none;
 }
-    
-label {
-  font-weight: bold;
-  font-size: 16px;
-  color:;
- width: 100%;
-}
-
-#submit_button {
-  background-color: black;
-  height: 5%;
-  width: 10%;
-  color: #FFFFFF;
-  font-weight: bold;
-}
-
-input, textarea {
-  background-color: ;
-  color: ;
-  width: 100%;
-  margin-bottom: 10px;
-
-}
-
 
 ul {
   list-style-type: none;
